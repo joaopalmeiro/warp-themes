@@ -1,0 +1,35 @@
+# Source:
+# Vitesse Theme (https://github.com/antfu/vscode-theme-vitesse) by Anthony Fu
+# https://github.com/antfu/vscode-theme-vitesse/blob/v0.4.9/src/theme.ts#L9
+# https://github.com/antfu/vscode-theme-vitesse/blob/v0.4.9/themes/vitesse-light.json
+
+# https://github.com/antfu/vscode-theme-vitesse/blob/v0.4.9/src/colors.ts#L25
+background: "#ffffff"
+# https://github.com/antfu/vscode-theme-vitesse/blob/v0.4.9/src/colors.ts#L16
+accent: "#1c6b48"
+# https://github.com/antfu/vscode-theme-vitesse/blob/v0.4.9/src/colors.ts#L19
+foreground: "#4e4f47"
+details: lighter
+
+terminal_colors:
+  normal:
+    # https://github.com/antfu/vscode-theme-vitesse/blob/v0.4.9/src/colors.ts#L18
+    black: "#393a34"
+    # https://github.com/antfu/vscode-theme-vitesse/blob/v0.4.9/src/colors.ts#L50
+    red: "#ab5959"
+    green: "#1e754f"
+    yellow: "#bda437"
+    blue: "#296aa3"
+    magenta: "#a13865"
+    cyan: "#2993a3"
+    # https://github.com/antfu/vscode-theme-vitesse/blob/v0.4.9/src/colors.ts#L26
+    white: "#f5f5f5"
+  bright:
+    black: "#393a34"
+    red: "#ab5959"
+    green: "#1e754f"
+    yellow: "#bda437"
+    blue: "#296aa3"
+    magenta: "#a13865"
+    cyan: "#2993a3"
+    white: "#f5f5f5"
