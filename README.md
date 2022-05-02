@@ -1,19 +1,21 @@
 # warp-themes
 
-Custom themes for [Warp](https://www.warp.dev/).
+Custom themes for [Warp](https://www.warp.dev/) and [Linear](https://linear.app/).
 
-## References
+## Warp
+
+### References
 
 - [Documentation](https://docs.warp.dev/features/themes#custom-themes).
 - [Repo](https://github.com/warpdotdev/themes).
 - [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse) by Anthony Fu.
 
-## Commands
+### Commands
 
 - First time: `mkdir -p ~/.warp/themes/`.
 - `cp vitesse_light.yaml ~/.warp/themes/`.
 
-## [Linear](https://linear.app/)
+## Linear
 
 ### Vitesse Dark Soft
 
